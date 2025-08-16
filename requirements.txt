@@ -1,4 +1,11 @@
 Flask
 numpy
 pandas
+matplotlib
+seaborn
+scikit-learn
+collections
+imblearn
+xgboost
+
 
