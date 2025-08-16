@@ -1,11 +1,7 @@
-Flask
-numpy
 pandas
-matplotlib
+numpy
 seaborn
+matplotlib
 scikit-learn
-collections
-imblearn
+imbalanced-learn
 xgboost
-
-
